@@ -27,7 +27,6 @@
 
 ### Available Builds
 - **Full Version**: Includes FFmpeg (`MegoXVideoDownloader.*`)
-- **Bare Version**: Requires FFmpeg installation (`MegoXVideoDownloader.Bare.*`)
 
 ## �️ Installation
 
