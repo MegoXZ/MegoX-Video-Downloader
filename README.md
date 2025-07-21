@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-**[Download Latest Version](https://github.com/MegoX/MegoXVideoDownloader/releases/latest)**
+**[Download Latest Version](https://github.com/MegoXZ/MegoX-Video-Downloader/releases/latest)**
 
 ### Available Builds
 - **Full Version**: Includes FFmpeg (`MegoXVideoDownloader.*`)
